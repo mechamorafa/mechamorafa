@@ -12,3 +12,7 @@
     <a href="https://www.linkedin.com/in/rafaelsramos/" rel="nofollow"><img src="https://camo.githubusercontent.com/7b1856aafb5afd8321bd275108cdfea8462bcc8633e8d54b64109c599a3680a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3133313331333f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e" alt="Linkedin     " data-canonical-src="https://img.shields.io/badge/LinkedIn-131313?style=flat-square&amp;logo=Linkedin" style="max-width:100%;"></a>
 
 </p>
+
+
+
+<p>Icons and readme file idea from <a href="https://github.com/jmurowaniecki">@jmurowaniecki</a></p>
