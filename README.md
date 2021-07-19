@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**mechamorafa/mechamorafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer currently working with Cloud Platform Integration. 
+
+<a href="#">Twitter</a>
 
 Here are some ideas to get you started:
 
