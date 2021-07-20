@@ -15,4 +15,4 @@
 
 
 
-<p><small>Icons and readme file idea from <a href="https://github.com/jmurowaniecki">@jmurowaniecki</a></small></p>
+
