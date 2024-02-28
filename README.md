@@ -34,15 +34,20 @@
 
 ## Readings for 2024
 [![Everyone Communicates             ][book-everyone_communicates-ok              ]][book-everyone_communicates]
-
+[![Ikigai             ][book-ikigai-ok              ]][book-ikigai]
+[![Howto             ][book-howto-ok              ]][book-howto]
 
 
 
 
 
 [book-everyone_communicates]: https://amzn.to/4bWN476
+[book-ikigai]: https://amzn.to/3US98Kf
+[book-howto]: https://amzn.to/3IgUGUv
 
 [book-everyone_communicates-ok             ]: covers/everyone.png
+[book-ikigai-ok             ]: covers/ikigai.png
+[book-howto-ok             ]: covers/howto.png
 
 
 
