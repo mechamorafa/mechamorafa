@@ -8,19 +8,11 @@
 [![Twitter      ][ico-twitter      ]][url-twitter      ]
 [![Instagram    ][ico-instagram    ]][url-instagram    ]
 [![Telegram     ][ico-telegram     ]][url-telegram     ]
-[![Stellar      ][ico-stellar      ]][url-stellar      ]
 [![Stackoverflow][ico-stackoverflow]][url-stackoverflow]
-[![Reddit       ][ico-reddit       ]][url-reddit       ]
 [![Medium       ][ico-medium       ]][url-medium       ]
 [![Linkedin     ][ico-linkedin     ]][url-linkedin     ]
-[![Keybase.io   ][ico-keybase      ]][url-keybase      ]
-[![HackerRank   ][ico-hackerrank   ]][url-hackerrank   ]
-[![Gmail        ][ico-gmail        ]][url-gmail        ]
 [![Github       ][ico-github       ]][url-github       ]
 [![Facebook     ][ico-facebook     ]][url-facebook     ]
-[![DEV          ][ico-devto        ]][url-devto        ]
-[![Spotify      ][ico-spotify      ]][url-spotify      ]
-[![Codewars     ][ico-codewars     ]][url-codewars     ]
 
 
 
