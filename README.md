@@ -33,7 +33,7 @@
 
 
 ## Readings for 2024
-![Everyone Communicates             ][book-everyone_communicates-ok              ][book-everyone_communicates]
+[![Everyone Communicates             ][book-everyone_communicates-ok              ]][book-everyone_communicates]
 
 
 
