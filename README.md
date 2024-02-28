@@ -4,7 +4,6 @@
 
 
 
-[![Whatsapp     ][ico-whatsapp     ]][url-whatsapp     ]
 [![Twitter      ][ico-twitter      ]][url-twitter      ]
 [![Instagram    ][ico-instagram    ]][url-instagram    ]
 [![Telegram     ][ico-telegram     ]][url-telegram     ]
@@ -33,7 +32,7 @@
 [ico-reddit       ]: https://img.shields.io/badge/Reddit-131313?style=flat-square&logo=Reddit
 [ico-medium       ]: https://img.shields.io/badge/Medium-131313?style=flat-square&logo=medium
 [ico-github       ]: https://img.shields.io/badge/Github-131313?style=flat-square&logo=Github
-[ico-x      ]: https://img.shields.io/badge/X-131313?style=flat-square&logo=x
+[ico-twitter      ]: https://img.shields.io/badge/Twitter-131313?style=flat-square&logo=twitter
 [ico-keybase      ]: https://img.shields.io/badge/Keybase.io-131313?style=flat-square&logo=keybase
 [ico-stellar      ]: https://img.shields.io/badge/Stellar-lumens-131313?style=flat-square&logo=stellar&labelColor=333
 [ico-spotify      ]: https://img.shields.io/badge/Spotify-131313?style=flat-square&logo=spotify
