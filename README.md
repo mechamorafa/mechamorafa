@@ -25,7 +25,6 @@
 ![lang Python    ](https://img.shields.io/badge/-Python-24A?style=flat-square&logo=Python&logoColor=fff)
 ![lang Assembly  ](https://img.shields.io/badge/-Assembly-27C?style=flat-square&logo=Assembly&logoColor=fff)
 ![lang ABAP      ](https://img.shields.io/badge/-ABAP-289?style=flat-square&logo=ABAP&logoColor=fff)
-![lang Awk       ](https://img.shields.io/badge/-Awk-28A?style=flat-square&logo=Awk&logoColor=fff)
 ![lang R         ](https://img.shields.io/badge/-R-29A?style=flat-square&logo=R&logoColor=fff)
 ![lang XSLT      ](https://img.shields.io/badge/-XSLT-2A3?style=flat-square&logo=XSLT&logoColor=fff)
 
