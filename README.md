@@ -33,6 +33,7 @@
 
 
 [](ASSETS)
+
 [url-blog         ]: https://mechamorafa.com/blog
 
 
