@@ -15,7 +15,7 @@
 
 
 
-## Most used languages
+## Languages used
 ![lang Java      ](https://img.shields.io/badge/-Java-259?style=flat-square&logo=Java&logoColor=fff)
 ![lang HTML      ](https://img.shields.io/badge/-HTML-1A5?style=flat-square&logo=HTML&logoColor=fff)
 ![lang JavaScript](https://img.shields.io/badge/-JavaScript-1F0?style=flat-square&logo=JavaScript&logoColor=fff)
@@ -28,10 +28,13 @@
 ![lang R         ](https://img.shields.io/badge/-R-29A?style=flat-square&logo=R&logoColor=fff)
 ![lang XSLT      ](https://img.shields.io/badge/-XSLT-2A3?style=flat-square&logo=XSLT&logoColor=fff)
 
-
+## Useful links
+[![Blog      ]][url-blog      ]
 
 
 [](ASSETS)
+[url-blog         ]: https://mechamorafa.com/blog
+
 
 [url-gmail        ]: mailto:rafaelramos.anti@gmail.com
 [url-medium       ]: https://medium.com/@mechamorafa
