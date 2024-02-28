@@ -32,6 +32,22 @@
 [Blog      ][url-blog      ]
 
 
+## Readings for 2024
+![Everyone Communicates             ][book-everyone_communicates-ok              ]
+
+
+
+
+
+
+[book-everyone_communicates]: https://amzn.to/4bWN476
+
+[book-everyone_communicates-ok             ]: covers/everyone.png
+
+
+
+
+
 [](ASSETS)
 
 [url-blog         ]: https://mechamorafa.com/blog
