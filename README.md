@@ -2,6 +2,13 @@
 
 <p>I'm a full stack developer currently working as a Support Team Manager. </p>
 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 <p>
     <a href="https://instagram.com/mechamorafa" rel="nofollow"><img src="https://camo.githubusercontent.com/90c518d538b748debc00db3a8693967671cf7a8675b63cfb618b3aa2a3587c06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d3133313331333f7374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-131313?style=flat-square&amp;logo=instagram" style="max-width:100%;"></a>
     <a href="https://t.me/mechamorafa" rel="nofollow"><img src="https://camo.githubusercontent.com/621b4d5ab1d1dfffcaf5aba30b5a82ea062e611c959c745a55b0c0a3f8eec5d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3133313331333f7374796c653d666c61742d737175617265266c6f676f3d74656c656772616d" alt="Telegram     " data-canonical-src="https://img.shields.io/badge/Telegram-131313?style=flat-square&amp;logo=telegram" style="max-width:100%;"></a>
