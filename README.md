@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm a full stack developer currently working as a Solutions Support Engineering Manager. </p>
+<p>I'm a full-stack developer currently working as a Solutions Support Engineering Manager. </p>
 
 
 
@@ -12,6 +12,23 @@
 [![Linkedin     ][ico-linkedin     ]][url-linkedin     ]
 [![Github       ][ico-github       ]][url-github       ]
 [![Facebook     ][ico-facebook     ]][url-facebook     ]
+
+
+
+## Most used languages
+![lang Java      ](https://img.shields.io/badge/-Java-259?style=flat-square&logo=Java&logoColor=fff)
+![lang HTML      ](https://img.shields.io/badge/-HTML-1A5?style=flat-square&logo=HTML&logoColor=fff)
+![lang JavaScript](https://img.shields.io/badge/-JavaScript-1F0?style=flat-square&logo=JavaScript&logoColor=fff)
+![lang CSS       ](https://img.shields.io/badge/-CSS-223?style=flat-square&logo=CSS&logoColor=fff)
+![lang PHP       ](https://img.shields.io/badge/-PHP-230?style=flat-square&logo=PHP&logoColor=fff)
+![lang TypeScript](https://img.shields.io/badge/-TypeScript-242?style=flat-square&logo=TypeScript&logoColor=fff)
+![lang Python    ](https://img.shields.io/badge/-Python-24A?style=flat-square&logo=Python&logoColor=fff)
+![lang Assembly  ](https://img.shields.io/badge/-Assembly-27C?style=flat-square&logo=Assembly&logoColor=fff)
+![lang ABAP      ](https://img.shields.io/badge/-ABAP-289?style=flat-square&logo=ABAP&logoColor=fff)
+![lang Awk       ](https://img.shields.io/badge/-Awk-28A?style=flat-square&logo=Awk&logoColor=fff)
+![lang R         ](https://img.shields.io/badge/-R-29A?style=flat-square&logo=R&logoColor=fff)
+![lang XSLT      ](https://img.shields.io/badge/-XSLT-2A3?style=flat-square&logo=XSLT&logoColor=fff)
+
 
 
 
