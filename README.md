@@ -29,7 +29,7 @@
 ![lang XSLT      ](https://img.shields.io/badge/-XSLT-2A3?style=flat-square&logo=XSLT&logoColor=fff)
 
 ## Useful links
-[![Blog      ]][url-blog      ]
+[Blog      ][url-blog      ]
 
 
 [](ASSETS)
