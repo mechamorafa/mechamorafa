@@ -29,8 +29,8 @@
 ![lang XSLT      ](https://img.shields.io/badge/-XSLT-2A3?style=flat-square&logo=XSLT&logoColor=fff)
 
 ## Useful links
-[Hi, My name is Rafael      ][url-blog      ] <br>
-[Blog      ][url-profile      ]
+[Hi, My name is Rafael      ][url-profile      ] <br>
+[Blog      ][url-blog      ]
 
 
 ## Readings for 2024
