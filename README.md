@@ -29,7 +29,8 @@
 ![lang XSLT      ](https://img.shields.io/badge/-XSLT-2A3?style=flat-square&logo=XSLT&logoColor=fff)
 
 ## Useful links
-[Blog      ][url-blog      ]
+[Hi, My name is Rafael      ][url-blog      ]
+[Blog      ][url-profile      ]
 
 
 ## Readings for 2024
@@ -56,6 +57,7 @@
 [](ASSETS)
 
 [url-blog         ]: https://mechamorafa.com/blog
+[url-profile         ]: https://mechamorafa.com
 
 
 [url-gmail        ]: mailto:rafaelramos.anti@gmail.com
