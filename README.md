@@ -33,22 +33,22 @@
 [Blog      ][url-blog      ]
 
 
-## Readings for 2024
-[![Everyone Communicates             ][book-everyone_communicates-ok              ]][book-everyone_communicates]
-[![Ikigai             ][book-ikigai-ok              ]][book-ikigai]
-[![Howto             ][book-howto-ok              ]][book-howto]
+## Readings for 2025
+[![The_Gap_And_The_Gain             ][book-gapandthegain-ok              ]][book-gapandthegain]
+[![The_Effective_Executive             ][book-theeffectiveexecutive-ok              ]][book-theeffectiveexecutive]
+[![Factfulness             ][book-factfulness-ok              ]][book-factfulness]
 
 
 
 
 
-[book-everyone_communicates]: https://amzn.to/4bWN476
-[book-ikigai]: https://amzn.to/3US98Kf
-[book-howto]: https://amzn.to/3IgUGUv
+[book-gapandthegain]: https://www.amazon.com/Gap-Gain-Achievers-Happiness-Confidence/dp/1401964362
+[book-theeffectiveexecutive]: https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459
+[book-factfulness]: https://www.amazon.com.br/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=asc_df_1250123828?mcid=30a44c397287386aba096f8b2c7e0373&tag=googleshopp00-20&linkCode=df0&hvadid=709873111650&hvpos=&hvnetw=g&hvrand=794815107791026378&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001681&hvtargid=pla-910042097476&psc=1&language=pt_BR&gad_source=1
 
-[book-everyone_communicates-ok             ]: covers/everyone.png
-[book-ikigai-ok             ]: covers/ikigai.png
-[book-howto-ok             ]: covers/howto.png
+[book-gapandthegain-ok             ]: covers/thegapandthegain.png
+[book-theffectiveexecutive-ok             ]: covers/theeffectiveexecutive.png
+[book-factfulness-ok             ]: covers/factfulness.png
 
 
 
