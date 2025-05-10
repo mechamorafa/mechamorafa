@@ -34,9 +34,9 @@
 
 
 ## Readings for 2025
-[![The_Gap_And_The_Gain             ][book-gapandthegain-ok              ]][book-gapandthegain]
-[![The_Effective_Executive             ][book-theeffectiveexecutive-ok              ]][book-theeffectiveexecutive]
-[![Factfulness             ][book-factfulness-ok              ]][book-factfulness]
+[![The_Gap_And_The_Gain][book-gapandthegain-ok              ]][book-gapandthegain]
+[![The_Effective_Executive][book-theffectiveexecutive-ok]][book-theeffectiveexecutive]
+[![Factfulness][book-factfulness-ok              ]][book-factfulness]
 
 
 
@@ -47,7 +47,7 @@
 [book-factfulness]: https://www.amazon.com.br/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=asc_df_1250123828?mcid=30a44c397287386aba096f8b2c7e0373&tag=googleshopp00-20&linkCode=df0&hvadid=709873111650&hvpos=&hvnetw=g&hvrand=794815107791026378&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001681&hvtargid=pla-910042097476&psc=1&language=pt_BR&gad_source=1
 
 [book-gapandthegain-ok             ]: covers/thegapandthegain.png
-[book-theffectiveexecutive-ok             ]: covers/theeffectiveexecutive.png
+[book-theffectiveexecutive-ok             ]: covers/theffectiveexecutive.png
 [book-factfulness-ok             ]: covers/factfulness.png
 
 
