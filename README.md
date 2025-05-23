@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm a full-stack developer currently working as a Solutions Support Engineering Manager. </p>
+<p>I'm a full-stack developer, program manager, and currently people manager. </p>
 
 
 
