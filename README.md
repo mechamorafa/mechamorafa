@@ -15,7 +15,7 @@
 
 
 ## Languages used
-[](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+[](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![lang Java      ](https://img.shields.io/badge/-Java-259?style=flat-square&logo=Java&logoColor=fff)
 ![lang HTML      ](https://img.shields.io/badge/-HTML-1A5?style=flat-square&logo=HTML&logoColor=fff)
 ![lang JavaScript](https://img.shields.io/badge/-JavaScript-1F0?style=flat-square&logo=JavaScript&logoColor=fff)
