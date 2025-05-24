@@ -103,7 +103,7 @@
 [ico-facebook     ]: https://img.shields.io/badge/Facebook-131313?style=flat-square&logo=facebook
 [ico-instagram    ]: https://img.shields.io/badge/Instagram-131313?style=flat-square&logo=instagram
 [ico-whatsapp     ]: https://img.shields.io/badge/Whatsapp-131313?style=flat-square&logo=whatsapp
-[ico-linkedin     ]: https://img.shields.io/badge/LinkedIn-131313?style=flat-square&logo=Linkedin
+[ico-linkedin     ]: https://img.shields.io/badge/Linkedin-131313?style=flat-square&logo=Linkedin
 [ico-telegram     ]: https://img.shields.io/badge/Telegram-131313?style=flat-square&logo=telegram
 [ico-hackerrank   ]: https://img.shields.io/badge/HackerRank-131313?style=flat-square&logo=hackerrank
 [ico-stackoverflow]: https://img.shields.io/badge/Stackoverflow-131313?style=flat-square&logo=Stackoverflow
