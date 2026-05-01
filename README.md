@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   JULIANO RAFAEL RAMOS  ·  Technical Support Manager     ║
+║   JULIANO RAFAEL RAMOS  ·  Technical Support Engineering Manager     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -29,7 +29,6 @@ Beyond management, I'm deeply technical — with hands-on experience across the 
 | Metric | Achievement |
 |--------|-------------|
 | 📈 Customer Effort Score | **+10%** improvement through process optimization |
-| ⚡ Resolution Times | **15% faster** by leading a team of 12 engineers |
 | 🔻 Escalation Rate | **-5%** reduction within 12 months |
 | 🌍 Knowledge Base | Authored resources used by **200+ engineers globally** |
 
@@ -65,12 +64,12 @@ Beyond management, I'm deeply technical — with hands-on experience across the 
 ```
 🎓 MBA — Controllership, Financial & Tax Strategy         PUCRS (2025)
 🎓 Postgrad — Leadership & People Management              UCS (2024)
+🎓 CST — Management Processes                             UniFavip (2023)
 🎓 Extension — Data Science, AI & Big Data                PUCRS (2020)
 🎓 B.Sc. — Information Systems                            PUCRS (2020)
-🎓 CST — Management Processes                             UniFavip (2023)
 ```
 
-**Certifications:** Agile Methodologies · Communication Training · Customer Service Excellence · Building Rapport
+**Certifications:** Agile Methodologies · Project Management · Communication Training · Customer Service Excellence · Building Rapport
 
 ---
 
