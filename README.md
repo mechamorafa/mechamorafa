@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   JULIANO RAFAEL RAMOS  ·  Technical Support Engineering Manager     ║
+║   JULIANO RAFAEL RAMOS  ·  AI Engineering Manager        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
